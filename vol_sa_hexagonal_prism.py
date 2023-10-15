@@ -5,6 +5,7 @@
 
 import math
 
+# Declare variables
 volume = 1
 surface_area = 1
 
