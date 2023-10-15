@@ -12,9 +12,7 @@ surface_area = 1
 
 def main():
     # Introduce the program and get user dimensions.
-    print(
-        "\033[1;34;40mThis program calculates the volume and surface area of a hexagonal prism"
-    )
+    print("\033[1;34;40mThis program calculates the volume and surface area of a hexagonal prism")
     print("with user given dimensions and units.\n")
     unit = input("Please enter a unit of measurement: ")
     base_edge = float(input("Please enter a base edge: "))
